@@ -16,7 +16,9 @@
   "editor.quickSuggestions": {
     "strings": true
   },
-  "editor.rulers": [80],
+  "editor.rulers": [
+    80
+  ],
   "editor.semanticHighlighting.enabled": "configuredByTheme",
   "editor.smoothScrolling": true,
   "editor.suggestSelection": "first",
@@ -68,10 +70,17 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.json-language-features"
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-},
-"git.enableSmartCommit": true
+  },
+  "git.enableSmartCommit": true,
+  "syncSettings.resources": [
+    "extensions",
+    "keybindings",
+    "settings",
+    "snippets",
+    "uiState"
+  ]
 }
