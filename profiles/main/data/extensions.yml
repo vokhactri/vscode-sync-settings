@@ -4,15 +4,19 @@ enabled:
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
-  - id: johnsoncodehk.vscode-typescript-vue-plugin
-    uuid: 78d16c76-388b-44e4-8470-6790d6c3d2d1
   - id: streetsidesoftware.code-spell-checker
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: VisualStudioExptTeam.intellicode-api-usage-examples
+    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
+  - id: VisualStudioExptTeam.vscodeintellicode
+    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: vscode-icons-team.vscode-icons
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
   - id: Vue.volar
     uuid: a5223b43-8621-4351-a14e-3d560f85f277
+  - id: Vue.vscode-typescript-vue-plugin
+    uuid: 78d16c76-388b-44e4-8470-6790d6c3d2d1
   - id: WakaTime.vscode-wakatime
     uuid: f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3
   - id: zokugun.cron-tasks
-    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
